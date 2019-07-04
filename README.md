@@ -1,33 +1,31 @@
 # W
 
-W (pronounced "double vee") is a WIP epic language project focused on speed, consistency and safety.
+W (pronounced "double vee") is a WIP language focused on speed, consistency and safety. W targets
+Lisp and Forth users. A variety of features including integrated dependency management have been
+planned. See the next section to know some more planned features.
 
 # What Features?
 
-All the good ones (WIP).
+The current planned features include:
 
-This includes (but is not limited to):
-
-1. High speed through smart optimizations
-2. Super consistent language
-3. Epic meta programming
-4. Enjoyable for Lisp and Forth lovers alike
-5. Super safe language (thread safety, type safety, etc.)
-6. Integrated dependency management
-7. Glorious Emoji Support!!!!
+- High speed achieved through smart optimizations
+- Consistency throughout the language
+- Meta programming
+- Safety (read thread safety, type safety, etc.)
+- Integrated dependency handling
+- Emoji support
 
 # The Source
 
-You probably noticed that there is no source yet.
-That is on purpose!
-W is yet to be written and polished.
-We want this to be as epic as possible, so we spend a lot of time on polishing the details.
-Actually implementing it is only a small step afterwards.
+You would have probably noticed that there is no source yet. This is intended as W
+is still a WIP. We want W to be one of the best languages out there so we spend a lot of
+time on polishing the details and planning out the implementation. Implementation is a lot
+simpler than the current stage (planning/polishing stage).
 
 # Examples
 
-I'm 100% sure there will be many examples (WIP) soon, that will display epic stuff done in an epic way.
-Hire me (niclas@countingsort.com) btw.
+As mentioned before, W is still a WIP so there are no examples yet. There will be more examples in
+the future. Make sure to stay tuned!
 
 # Contributing
 
