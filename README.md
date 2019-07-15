@@ -1,7 +1,7 @@
 # W
 
-W (pronounced "double vee") is a WIP language focused on speed, consistency and safety. W targets
-Lisp and Forth users. A variety of features including integrated dependency management have been
+W (pronounced "double vee") is a WIP language focused on speed, consistency and safety. 
+A variety of features including integrated dependency management have been
 planned. See the next section to know some more planned features.
 
 # What Features?
@@ -17,8 +17,7 @@ The current planned features include:
 
 # The Source
 
-You would have probably noticed that there is no source yet. This is intended as W
-is still a WIP. We want W to be one of the best languages out there so we spend a lot of
+We want W to be one of the best languages out there so we spend a lot of
 time on polishing the details and planning out the implementation. Implementation is a lot
 simpler than the current stage (planning/polishing stage).
 
